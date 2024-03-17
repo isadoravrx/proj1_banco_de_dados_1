@@ -10,7 +10,9 @@ O projeto inicou-se com alguns requisitos mínimos, como:
 - Entidade Disciplina, que possui como atributo seu nome, e a sua carga horária. Além disso, possui relacionamento com as especificações de alunos, já que todos eles estudam disciplinas.
 - Entidade Mátricula, que possui como atributo um ID, que é uma chave, para identificar o aluno. Atributos como série e turma também são inseridos, além do atributo derivado "turno".
 - Utilização de cardinalidade para representar a quantidade de entidades em cada relacionamento.
-- especificações e generalizações, como aluno, que pode ser EAD ou presencial.
+- especificações e generalizações, como "aluno", que pode ser EAD ou presencial, além da entidade "pessoa" que generalizou todos os indivíduos de um sistema escolar.
 
 # Requisitos adicionais
-Como Requisitos adicionais, foram
+Como Requisitos adicionais, foram inseridos: 
+
+- A entidade "Pessoa" para generalizar todos aqueles indíviduos da escola, com o objetivo de agrupar os atributos que eles possuem em comum, que são : Nome(atributo composto, por primeiro nome e segundo nome),cpf(atributo chave), RG(também chave) .
