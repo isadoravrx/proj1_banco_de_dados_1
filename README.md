@@ -13,3 +13,4 @@ O projeto inicou-se com alguns requisitos mínimos, como:
 - especificações e generalizações, como aluno, que pode ser EAD ou presencial.
 
 # Requisitos adicionais
+Como Requisitos adicionais, foram
