@@ -1,5 +1,5 @@
 # Projeto de Banco de Dados I
-Nome : Isadora Vitória do Rêgo Xavier
+Nome : Isadora Vitória do Rêgo Xavier <br/> 
 Esse projeto consiste em um sistema de gerenciamento escolar utilizando o Modelo Entidade-Relacionamento. Sua realização foi baseada em vivências escolares, e implementado no program BrModelo. 
 
 # Requisitos Mínimos
