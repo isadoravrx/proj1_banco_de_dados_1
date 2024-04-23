@@ -2,7 +2,7 @@
 Nome : Isadora Vitória do Rêgo Xavier <br/> 
 Esse projeto consiste em um sistema de gerenciamento escolar utilizando o Modelo Entidade-Relacionamento. Sua realização foi baseada em vivências escolares, e implementado no program BrModelo. 
 
-<img src="https://github.com/isadoravrx/banco_de_dados_1/blob/main/image_proj.png">
+<img src="https://github.com/isadoravrx/proj1_banco_de_dados_1/blob/main/image_proj.png">
 
 # Requisitos Mínimos
 O projeto inicou-se com alguns requisitos mínimos, como:
